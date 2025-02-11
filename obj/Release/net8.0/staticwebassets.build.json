@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8UHUsqvFmKi48mvD6/Mb6jQiByeWGzp8Ui9nCS2zgGU=",
+  "Source": "VendorPortalAPI",
+  "BasePath": "_content/VendorPortalAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
